@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Delivery Planner"
+  short_description: "Plan delivery rules, coverage, and agent loading"
+  default_prompt: "Use $project-delivery-planner to understand my project, define acceptance criteria, and create delivery rules with coverage and instruction-loading checks."
