@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Rules Builder"
+  short_description: "Ask about a project and tailor its delivery rules"
+  default_prompt: "Use $project-rules-builder to ask me about my project and create a tailored rule set for its delivery."

@@ -1,0 +1,13 @@
+# Local credentials and environment settings
+.env
+.env.*
+*.pem
+*.key
+
+# Generated/local files
+__pycache__/
+*.pyc
+.validation-deps/
+*.zip
+.DS_Store
+Thumbs.db
